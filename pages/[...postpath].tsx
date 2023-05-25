@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://vdovisite24h.store/` + encodeURI(path as string)
+					`https://12pm-news.com//` + encodeURI(path as string)
 				}`,
 			},
 		};
